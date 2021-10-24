@@ -1,6 +1,3 @@
-
-
-
 from selenium import webdriver #importe do selenium webdriver "controlador" de site
 from selenium.webdriver.firefox.options import Options #import do controlador especifico do firefox
 from selenium.webdriver.common.by import By
@@ -67,7 +64,7 @@ def web(ponto):
       v=texto[i].find(':')
       if v != -1:
           horario.append(texto[i])
-  rest = tuple(rest)
+  rest = {'restaurantes':rest}
         
   return rest
   
