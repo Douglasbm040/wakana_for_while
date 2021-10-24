@@ -3,7 +3,7 @@ from webbot import web
 
 
 
-dados= web()
+#dados= web()
 app=Flask('webscrape')
 
 #@app.route("/bot",methods=['GET'])

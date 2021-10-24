@@ -1,6 +1,6 @@
 
 
-import routes
+
 from selenium import webdriver #importe do selenium webdriver "controlador" de site
 from selenium.webdriver.firefox.options import Options #import do controlador especifico do firefox
 from selenium.webdriver.common.by import By
@@ -19,7 +19,7 @@ driver = webdriver.Firefox(options=options, executable_path="C:/Users/dougl/Desk
 
 
 link='https://www.google.com.br/maps/place/'
-local = routes.buscar()
+#local = routes.buscar()
 #link = link+local
 
 
@@ -57,7 +57,19 @@ def web(ponto):
   texto.strip()
   texto=texto.replace("$$",'')
   texto=texto.split('·')
-  return texto
+  rest=[]
+  horario=[]
+
+  for i in range(0,len(texto)):
+      v=texto[i].find('(') 
+      if v != -1 :
+         rest.append(texto[i])
+      v=texto[i].find(':')
+      if v != -1:
+          horario.append(texto[i])
+  rest = tuple(rest)
+        
+  return rest
   
 
 
