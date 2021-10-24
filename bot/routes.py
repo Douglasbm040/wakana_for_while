@@ -1,22 +1,21 @@
 from flask import Flask , request
-import webbot as botmaps
-import consumir as api
+from webbot import web
 
 
-dados=bot.texto
 
+dados= web()
 app=Flask('webscrape')
 
-@app.route("/bot",methods=['GET'])
+#@app.route("/bot",methods=['GET'])
 
-def bot ( ):
-      return {'html':dados}
+#def bot ():
+#      return {'html':dados}
 
 @app.route('/buscar',methods=['POST'])
 def buscar ():
     
     jsona=request.form['local']
-    essavai=bot.web()
+    essavai= web(jsona)
     return essavai
 
 

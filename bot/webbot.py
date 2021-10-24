@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[93]:
 
 import routes
 from selenium import webdriver #importe do selenium webdriver "controlador" de site
@@ -30,9 +27,9 @@ def acess(link):
   elemento=driver.get(link)
   return elemento
 
-def local(link):
+def local(link,local):
   time.sleep(30)
-  elemento=driver.find_element_by_xpath(r'/html/body/div[3]/div[9]/div[3]/div[1]/div[1]/div[1]/div[2]/form/div/div[3]/div/input[1]').send_keys('paque pedra da cebola')
+  elemento=driver.find_element_by_xpath(r'/html/body/div[3]/div[9]/div[3]/div[1]/div[1]/div[1]/div[2]/form/div/div[3]/div/input[1]').send_keys(local)
   elemento=driver.find_element_by_xpath(r'/html/body/div[3]/div[9]/div[3]/div[1]/div[1]/div[1]/div[2]/form/div/div[3]/div/input[1]').send_keys(Keys.ENTER)
   return elemento
 
@@ -44,22 +41,23 @@ def restaurantes(link):
   return elemento
 
 
-
-acess(link)
-local(link)
-print('acessando restaurantes#')
-time.sleep(10) 
-restaurantes(link)
-time.sleep(30)
-#dados=driver.find_element_by_xpath('/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]')
-dados=driver.find_element_by_css_selector('div.siAUzd-neVct:nth-child(4)')
-html=dados.get_attribute("innerHTML")
-soup=BeautifulSoup(html,'html.parser')
-#resposta=soup.find("div", {"jstcache":"933"})
-texto=soup.get_text()
-texto.strip()
-texto=texto.replace("$$",'')
-texto=texto.split('·')
+def web(ponto):
+  acess(link)
+  local(link,ponto)
+  print('acessando restaurantes#')
+  time.sleep(10) 
+  restaurantes(link)
+  time.sleep(30)
+  #dados=driver.find_element_by_xpath('/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]')
+  dados=driver.find_element_by_css_selector('div.siAUzd-neVct:nth-child(4)')
+  html=dados.get_attribute("innerHTML")
+  soup=BeautifulSoup(html,'html.parser')
+  #resposta=soup.find("div", {"jstcache":"933"})
+  texto=soup.get_text()
+  texto.strip()
+  texto=texto.replace("$$",'')
+  texto=texto.split('·')
+  return texto
   
 
 
