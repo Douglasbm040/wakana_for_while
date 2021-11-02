@@ -1,0 +1,1030 @@
+1635684844546	geckodriver	INFO	Listening on 127.0.0.1:64966
+1635684848046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileiGZ75w"
+*** You are running in headless mode.
+1635684901561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileiGZ75w\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 42816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635684959339	Marionette	INFO	Listening on port 64976
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+e.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1635685066301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+onsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileVT6Kqi\\search.json.mozlz4", (void 0)))
+1635685223809	Marionette	INFO	Listening on port 53643
+1635685224181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHwDlap"
+*** You are running in headless mode.
+1635685618764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHwDlap\\search.json.mozlz4", (void 0)))
+1635685621454	Marionette	INFO	Listening on port 56027
+1635685621904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635686360227	geckodriver	INFO	Listening on 127.0.0.1:49823
+1635686363302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileoy7PA4"
+*** You are running in headless mode.
+1635686365201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileoy7PA4\\search.json.mozlz4", (void 0)))
+1635686369752	Marionette	INFO	Listening on port 49835
+1635686369781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 28972, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+Exiting due to channel error.
+" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilemttYvO"
+*** You are running in headless mode.
+1635686902546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilemttYvO\\search.json.mozlz4", (void 0)))
+1635686904592	Marionette	INFO	Listening on port 57843
+1635686905215	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+dougl\\AppData\\Local\\Temp\\rust_mozprofilefwPsox"
+*** You are running in headless mode.
+1635687052324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilefwPsox\\search.json.mozlz4", (void 0)))
+1635687054023	Marionette	INFO	Listening on port 61781
+1635687054206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebfC83s"
+*** You are running in headless mode.
+1635687221965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebfC83s\\search.json.mozlz4", (void 0)))
+1635687227692	Marionette	INFO	Listening on port 61732
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635687232207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileRRFb4n"
+*** You are running in headless mode.
+1635687637006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileRRFb4n\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1635687673922	Marionette	INFO	Listening on port 61886
+1635687674117	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile9Jvfje"
+*** You are running in headless mode.
+1635687811220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile9Jvfje\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1635687834983	Marionette	INFO	Listening on port 61983
+1635687835841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile9HMa26"
+*** You are running in headless mode.
+1635688218613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile9HMa26\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1635688240790	Marionette	INFO	Listening on port 56964
+1635688241492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilermnlIa"
+*** You are running in headless mode.
+1635688506104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilermnlIa\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1635688523452	Marionette	INFO	Listening on port 51267
+1635688524784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1635777408449	geckodriver	INFO	Listening on 127.0.0.1:54944
+1635777411493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilelaFlHb"
+*** You are running in headless mode.
+1635777425233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilelaFlHb\\search.json.mozlz4", (void 0)))
+[Parent 44856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1635777442134	Marionette	INFO	Listening on port 54952
+1635777442664	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1635789993410	geckodriver	INFO	Listening on 127.0.0.1:49515
+1635789996485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile0hoUZb"
+*** You are running in headless mode.
+1635790000298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile0hoUZb\\search.json.mozlz4", (void 0)))
+1635790002950	Marionette	INFO	Listening on port 49524
+1635790003360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile5iKQTZ"
+*** You are running in headless mode.
+1635790343815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile5iKQTZ\\search.json.mozlz4", (void 0)))
+1635790345359	Marionette	INFO	Listening on port 58408
+1635790345747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileDsswJl"
+*** You are running in headless mode.
+1635790482665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileDsswJl\\search.json.mozlz4", (void 0)))
+1635790484035	Marionette	INFO	Listening on port 53833
+1635790484497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileJAj0Sv"
+*** You are running in headless mode.
+1635790661078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileJAj0Sv\\search.json.mozlz4", (void 0)))
+1635790662807	Marionette	INFO	Listening on port 59518
+1635790663270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635791338538	geckodriver	INFO	Listening on 127.0.0.1:58963
+1635791341547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebiJpE4"
+*** You are running in headless mode.
+1635791343607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebiJpE4\\search.json.mozlz4", (void 0)))
+1635791345613	Marionette	INFO	Listening on port 58971
+1635791345755	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileDoDzIe"
+*** You are running in headless mode.
+1635791482988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileDoDzIe\\search.json.mozlz4", (void 0)))
+1635791484733	Marionette	INFO	Listening on port 50438
+1635791484884	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHkgT2S"
+*** You are running in headless mode.
+1635791615182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHkgT2S\\search.json.mozlz4", (void 0)))
+1635791616500	Marionette	INFO	Listening on port 59057
+1635791616987	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebymKYg"
+*** You are running in headless mode.
+1635791790967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebymKYg\\search.json.mozlz4", (void 0)))
+1635791792421	Marionette	INFO	Listening on port 57941
+1635791792939	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileowqgFY"
+*** You are running in headless mode.
+1635792026456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileowqgFY\\search.json.mozlz4", (void 0)))
+1635792028201	Marionette	INFO	Listening on port 57203
+1635792028338	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635792752329	geckodriver	INFO	Listening on 127.0.0.1:50356
+1635792755315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile3uuqfX"
+*** You are running in headless mode.
+1635792757207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile3uuqfX\\search.json.mozlz4", (void 0)))
+1635792759743	Marionette	INFO	Listening on port 50364
+1635792760112	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 48832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ust_mozprofilexxkaaa"
+*** You are running in headless mode.
+1635793026287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilexxkaaa\\search.json.mozlz4", (void 0)))
+1635793027582	Marionette	INFO	Listening on port 64536
+1635793027696	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileOHSLpn"
+*** You are running in headless mode.
+1635793082007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileOHSLpn\\search.json.mozlz4", (void 0)))
+1635793083405	Marionette	INFO	Listening on port 64596
+1635793083642	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 52036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ust_mozprofileU8f71s"
+*** You are running in headless mode.
+1635793281995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileU8f71s\\search.json.mozlz4", (void 0)))
+1635793283973	Marionette	INFO	Listening on port 64495
+1635793284441	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileJGG2h2"
+*** You are running in headless mode.
+1635793351955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileJGG2h2\\search.json.mozlz4", (void 0)))
+1635793353650	Marionette	INFO	Listening on port 59370
+1635793354015	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileaMuks9"
+*** You are running in headless mode.
+1635793500243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileaMuks9\\search.json.mozlz4", (void 0)))
+1635793501842	Marionette	INFO	Listening on port 61366
+1635793502060	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileGd7Aib"
+*** You are running in headless mode.
+1635793564917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileGd7Aib\\search.json.mozlz4", (void 0)))
+1635793567243	Marionette	INFO	Listening on port 50279
+1635793567652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileNZ2yun"
+*** You are running in headless mode.
+1635793758585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileNZ2yun\\search.json.mozlz4", (void 0)))
+1635793761808	Marionette	INFO	Listening on port 63432
+1635793762688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileGTrEhn"
+*** You are running in headless mode.
+1635794109972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileGTrEhn\\search.json.mozlz4", (void 0)))
+1635794112296	Marionette	INFO	Listening on port 62367
+1635794112731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile5Zc9tR"
+*** You are running in headless mode.
+1635794471214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile5Zc9tR\\search.json.mozlz4", (void 0)))
+1635794473721	Marionette	INFO	Listening on port 60823
+1635794473827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileCg1s1I"
+*** You are running in headless mode.
+1635794644529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileCg1s1I\\search.json.mozlz4", (void 0)))
+1635794646862	Marionette	INFO	Listening on port 53347
+1635794647145	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+1635858874367	geckodriver	INFO	Listening on 127.0.0.1:62611
+1635858877531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileUGn4tP"
+*** You are running in headless mode.
+1635858888689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileUGn4tP\\search.json.mozlz4", (void 0)))
+[Parent 51224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635858901468	Marionette	INFO	Listening on port 62619
+1635858902157	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileEmhTov"
+*** You are running in headless mode.
+1635859301271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileEmhTov\\search.json.mozlz4", (void 0)))
+1635859303903	Marionette	INFO	Listening on port 59073
+1635859303989	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileRvkp3t"
+*** You are running in headless mode.
+1635859360971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileRvkp3t\\search.json.mozlz4", (void 0)))
+1635859362577	Marionette	INFO	Listening on port 53051
+1635859363152	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilegms6CO"
+*** You are running in headless mode.
+1635859405985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilegms6CO\\search.json.mozlz4", (void 0)))
+1635859407358	Marionette	INFO	Listening on port 53121
+1635859407527	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileGHFxTA"
+*** You are running in headless mode.
+1635859486336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileGHFxTA\\search.json.mozlz4", (void 0)))
+1635859487648	Marionette	INFO	Listening on port 52268
+1635859488132	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileyuEHbs"
+*** You are running in headless mode.
+1635859594490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileyuEHbs\\search.json.mozlz4", (void 0)))
+1635859596437	Marionette	INFO	Listening on port 52334
+1635859596494	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635860362275	geckodriver	INFO	Listening on 127.0.0.1:63664
+1635860365237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilezvoGbm"
+*** You are running in headless mode.
+1635860367126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilezvoGbm\\search.json.mozlz4", (void 0)))
+1635860369231	Marionette	INFO	Listening on port 63673
+1635860369445	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileIiP4io"
+*** You are running in headless mode.
+1635860408525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileIiP4io\\search.json.mozlz4", (void 0)))
+1635860410205	Marionette	INFO	Listening on port 53571
+1635860410414	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilek9u4dX"
+*** You are running in headless mode.
+1635860518046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilek9u4dX\\search.json.mozlz4", (void 0)))
+1635860519557	Marionette	INFO	Listening on port 64419
+1635860519812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Listening on 127.0.0.1:57578
+1635861163529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileMRpW4Y"
+*** You are running in headless mode.
+1635861166143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileMRpW4Y\\search.json.mozlz4", (void 0)))
+1635861167773	Marionette	INFO	Listening on port 57602
+1635861167857	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile60QyRb"
+*** You are running in headless mode.
+1635861329580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile60QyRb\\search.json.mozlz4", (void 0)))
+1635861330951	Marionette	INFO	Listening on port 57690
+1635861331215	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileAXX5VQ"
+*** You are running in headless mode.
+1635861370422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileAXX5VQ\\search.json.mozlz4", (void 0)))
+1635861371677	Marionette	INFO	Listening on port 57742
+1635861372197	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilekYE1OS"
+*** You are running in headless mode.
+1635861417272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilekYE1OS\\search.json.mozlz4", (void 0)))
+1635861418769	Marionette	INFO	Listening on port 62346
+1635861419081	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileYcpUOd"
+*** You are running in headless mode.
+1635861669865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileYcpUOd\\search.json.mozlz4", (void 0)))
+1635861672335	Marionette	INFO	Listening on port 56201
+1635861672433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHODGQ6"
+*** You are running in headless mode.
+1635861850470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHODGQ6\\search.json.mozlz4", (void 0)))
+1635861852192	Marionette	INFO	Listening on port 64133
+1635861852662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileKgYWSE"
+*** You are running in headless mode.
+1635862100590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileKgYWSE\\search.json.mozlz4", (void 0)))
+1635862102363	Marionette	INFO	Listening on port 60097
+1635862102394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileUbLvxt"
+*** You are running in headless mode.
+1635862312232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileUbLvxt\\search.json.mozlz4", (void 0)))
+1635862313942	Marionette	INFO	Listening on port 52778
+1635862314464	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileawFxH1"
+*** You are running in headless mode.
+1635862562313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileawFxH1\\search.json.mozlz4", (void 0)))
+1635862563586	Marionette	INFO	Listening on port 50863
+1635862564045	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilet6sTBv"
+*** You are running in headless mode.
+1635862659978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilet6sTBv\\search.json.mozlz4", (void 0)))
+1635862661859	Marionette	INFO	Listening on port 63468
+1635862662107	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635865765766	geckodriver	INFO	Listening on 127.0.0.1:60318
+1635865768930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilefdF6I1"
+*** You are running in headless mode.
+1635865771693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilefdF6I1\\search.json.mozlz4", (void 0)))
+1635865775722	Marionette	INFO	Listening on port 60332
+1635865775979	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileflwBB1"
+*** You are running in headless mode.
+1635865834347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileflwBB1\\search.json.mozlz4", (void 0)))
+1635865835902	Marionette	INFO	Listening on port 49513
+1635865836339	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilel2CiUe"
+*** You are running in headless mode.
+1635865882603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilel2CiUe\\search.json.mozlz4", (void 0)))
+1635865883945	Marionette	INFO	Listening on port 51651
+1635865884230	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilezLTZHI"
+*** You are running in headless mode.
+1635865939548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilezLTZHI\\search.json.mozlz4", (void 0)))
+1635865940779	Marionette	INFO	Listening on port 53811
+1635865940822	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileag5rcj"
+*** You are running in headless mode.
+1635865998631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileag5rcj\\search.json.mozlz4", (void 0)))
+1635865999980	Marionette	INFO	Listening on port 52669
+1635866000456	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHr3fh8"
+*** You are running in headless mode.
+1635866116645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHr3fh8\\search.json.mozlz4", (void 0)))
+1635866118340	Marionette	INFO	Listening on port 61541
+1635866118755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile77HRH2"
+*** You are running in headless mode.
+1635866603977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile77HRH2\\search.json.mozlz4", (void 0)))
+1635866607079	Marionette	INFO	Listening on port 56221
+1635866607585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileQA0ywm"
+*** You are running in headless mode.
+1635866855048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileQA0ywm\\search.json.mozlz4", (void 0)))
+1635866857370	Marionette	INFO	Listening on port 58342
+1635866857484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 61512, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+Exiting due to channel error.
+mode.
+1635867216744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilefDXZjj\\search.json.mozlz4", (void 0)))
+1635867219562	Marionette	INFO	Listening on port 57177
+1635867219826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileV0WEPv"
+*** You are running in headless mode.
+1635867329222	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileV0WEPv\\search.json.mozlz4", (void 0)))
+1635867331095	Marionette	INFO	Listening on port 62022
+1635867331508	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 47164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile66I503"
+*** You are running in headless mode.
+1635867464726	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofile66I503\\search.json.mozlz4", (void 0)))
+1635867466602	Marionette	INFO	Listening on port 61628
+1635867466852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileJoFdx5"
+*** You are running in headless mode.
+1635867793360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileJoFdx5\\search.json.mozlz4", (void 0)))
+1635867797381	Marionette	INFO	Listening on port 64404
+1635867797660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5wg/rt=j/d=1/rs=ACT90oFlTyKirhvF9lNSwUITcMSo83xemw, line 2115: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilenf6X6u"
+*** You are running in headless mode.
+1635868005740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilenf6X6u\\search.json.mozlz4", (void 0)))
+1635868011872	Marionette	INFO	Listening on port 57170
+1635868013252	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 66184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileLLNpci"
+*** You are running in headless mode.
+1635868325244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileLLNpci\\search.json.mozlz4", (void 0)))
+1635868331399	Marionette	INFO	Listening on port 53470
+1635868332243	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Listening on 127.0.0.1:58899
+1635869293250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebf5u1f"
+*** You are running in headless mode.
+1635869296950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilebf5u1f\\search.json.mozlz4", (void 0)))
+1635869304192	Marionette	INFO	Listening on port 58907
+1635869305392	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileG7zaTK"
+*** You are running in headless mode.
+1635869389549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileG7zaTK\\search.json.mozlz4", (void 0)))
+1635869391235	Marionette	INFO	Listening on port 57470
+1635869391690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileBBCGMu"
+*** You are running in headless mode.
+1635869657953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileBBCGMu\\search.json.mozlz4", (void 0)))
+1635869660891	Marionette	INFO	Listening on port 60393
+1635869661178	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Listening on 127.0.0.1:61604
+1635870653669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilerXOldn"
+*** You are running in headless mode.
+1635870655692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilerXOldn\\search.json.mozlz4", (void 0)))
+1635870659240	Marionette	INFO	Listening on port 61612
+1635870659595	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+1635881706683	geckodriver	INFO	Listening on 127.0.0.1:61333
+1635881709719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilepsC33O"
+*** You are running in headless mode.
+1635881723411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilepsC33O\\search.json.mozlz4", (void 0)))
+1635881727831	Marionette	INFO	Listening on port 61342
+1635881727964	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilecKUjQb"
+*** You are running in headless mode.
+1635881733525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilecKUjQb\\search.json.mozlz4", (void 0)))
+1635881736642	Marionette	INFO	Listening on port 61396
+1635881737493	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilerojAU0"
+*** You are running in headless mode.
+1635881813295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilerojAU0\\search.json.mozlz4", (void 0)))
+1635881815430	Marionette	INFO	Listening on port 51671
+1635881815793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileb9wAJJ"
+*** You are running in headless mode.
+1635881961208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileb9wAJJ\\search.json.mozlz4", (void 0)))
+1635881962530	Marionette	INFO	Listening on port 51808
+1635881962653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+[Parent 15116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

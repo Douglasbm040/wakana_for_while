@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import ActionChains
+
 import time #biblioteca para adicionar um tempo de espera
 
 #instacinado o bot 
@@ -25,7 +26,8 @@ def acess(link):
   return elemento
 
 def local(link,local):
-  time.sleep(30)
+  
+  driver.implicitly_wait(30)
   elemento=driver.find_element_by_xpath(r'/html/body/div[3]/div[9]/div[3]/div[1]/div[1]/div[1]/div[2]/form/div/div[3]/div/input[1]').send_keys(local)
   elemento=driver.find_element_by_xpath(r'/html/body/div[3]/div[9]/div[3]/div[1]/div[1]/div[1]/div[2]/form/div/div[3]/div/input[1]').send_keys(Keys.ENTER)
   return elemento
@@ -42,9 +44,9 @@ def web(ponto):
   acess(link)
   local(link,ponto)
   print('acessando restaurantes#')
-  time.sleep(10) 
+  driver.implicitly_wait(10) 
   restaurantes(link)
-  time.sleep(30)
+  time.sleep(15)
   #dados=driver.find_element_by_xpath('/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]')
   dados=driver.find_element_by_css_selector('div.siAUzd-neVct:nth-child(4)')
   html=dados.get_attribute("innerHTML")
@@ -56,7 +58,6 @@ def web(ponto):
   texto=texto.split('·')
   rest=[]
   horario=[]
-
   for i in range(0,len(texto)):
       v=texto[i].find('(') 
       if v != -1 :
@@ -65,9 +66,10 @@ def web(ponto):
       if v != -1:
           horario.append(texto[i])
   rest = {'restaurantes':rest}
-        
   return rest
-  
+
+
+
 
 
 
