@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import ActionChains
-
+import json
 import time #biblioteca para adicionar um tempo de espera
 
 #instacinado o bot 
@@ -66,6 +66,7 @@ def web(ponto):
       if v != -1:
           horario.append(texto[i])
   rest = {'restaurantes':rest}
+  rest= json.dumps(rest)
   return rest
 
 

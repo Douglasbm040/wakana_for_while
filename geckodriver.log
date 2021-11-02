@@ -1028,3 +1028,106 @@ JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iC
 [Parent 15116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635890384221	geckodriver	INFO	Listening on 127.0.0.1:53635
+1635890387255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileM7bp49"
+*** You are running in headless mode.
+1635890388910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileM7bp49\\search.json.mozlz4", (void 0)))
+1635890390225	Marionette	INFO	Listening on port 53643
+1635890390441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHBXl7W"
+*** You are running in headless mode.
+1635890684251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofileHBXl7W\\search.json.mozlz4", (void 0)))
+1635890685757	Marionette	INFO	Listening on port 53822
+1635890685924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilePp4wua"
+*** You are running in headless mode.
+1635891179713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dougl\\AppData\\Local\\Temp\\rust_mozprofilePp4wua\\search.json.mozlz4", (void 0)))
+1635891181435	Marionette	INFO	Listening on port 62929
+1635891181870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://www.google.com.br/maps/_/js/k=maps.m.pt_BR.PgzYBc_iCZM.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=N5Qg/rt=j/d=1/rs=ACT90oFXirQgt0ujwNmCC1J8sbx-xWt0NQ, line 2113: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()

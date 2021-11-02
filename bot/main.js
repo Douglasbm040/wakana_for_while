@@ -7,7 +7,9 @@
 
 
 function main(){
-    local=prompt('adicione um local para a pesquisa :    ')
+    
+    //local=prompt('adicione um local para a pesquisa :    ')
+    local= 'Praia da Costa, Vila Velha - ES'
     local = 'http://127.0.0.1:5000/service/' + local
     data = get(local)
     console.log(data)
@@ -15,20 +17,18 @@ function main(){
 }
 main()*/
 
-const readline = require("readline");
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
+const fetch = require('node-fetch');
 
-rl.question("What is your name ? ", function(name) {
-    rl.question("Where do you live ? ", function(country) {
-        console.log(`${name}, is a citizen of ${country}`);
-        rl.close();
-    });
-});
+(async () => {
+  try {
+    
 
-rl.on("close", function() {
-    console.log("\nBYE BYE !!!");
-    process.exit(0);
-});
+    const response = await fetch('http://127.0.0.1:5000/service/Praia da Costa, Vila Velha - ES')
+    const json = await response
+
+    console.log(json.responseText);
+    //console.log(json.explanation);
+  } catch (error) {
+    console.log(error.response.body);
+  }
+})();
