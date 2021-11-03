@@ -1,21 +1,23 @@
-/*function get(url){
-    let request = new XMLHttpRequest()
-    request.open('GET',url)
-    request.send()
-    return request.responseText
+/*function get(url) {
+  var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+  var request = new XMLHttpRequest();
+  reques=request.open("GET", url);
+  console.log(reques)
+  request.send();
+  return request.responseText;
 }
 
-
-function main(){
-    
-    //local=prompt('adicione um local para a pesquisa :    ')
-    local= 'Praia da Costa, Vila Velha - ES'
-    local = 'http://127.0.0.1:5000/service/' + local
-    data = get(local)
-    console.log(data)
-    
+function main() {
+  //local=prompt('adicione um local para a pesquisa :    ')
+  local = "Praia da Costa, Vila Velha - ES";
+  local = "http://127.0.0.1:5000/service/" + local;
+  console.log(local)
+  data = get(local);
+  console.log(data);
 }
-main()*/
+main();
+
+/*
 
 const fetch = require('node-fetch');
 
@@ -31,4 +33,4 @@ const fetch = require('node-fetch');
   } catch (error) {
     console.log(error.response.body);
   }
-})();
+})();*/
